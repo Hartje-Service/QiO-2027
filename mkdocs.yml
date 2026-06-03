@@ -1,0 +1,69 @@
+site_name: QiO 2027 – Výrobní manuál
+site_description: Výrobní manuál pro modely QiO 2027
+site_author: Hartje Production
+
+theme:
+  name: material
+  language: cs
+  palette:
+    primary: "#0b4ea2"
+    accent: "#009fe3"
+  custom_dir: overrides
+
+extra_css:
+  - styles/extra.css
+
+plugins:
+  - search
+  - include-markdown
+
+nav:
+
+  - Obecné:
+      - Specifikace: obecne/specifikace.md
+      - Bezpečnost: obecne/bezpecnost.md
+      - Nástroje: obecne/nastroje.md
+
+  - Modely:
+      - Compact P5 LL:
+          - Přehled: modely/Compact-P5-LL/Přehled.md
+          - Montáž: modely/Compact-P5-LL/Montáž.md
+          - Kusovníky: modely/Compact-P5-LL/Kusovníky.md
+
+      - Compact P5 RBN:
+          - Přehled: modely/Compact-P5-RBN/Přehled.md
+          - Montáž: modely/Compact-P5-RBN/Montáž.md
+          - Kusovníky: modely/Compact-P5-RBN/Kusovníky.md
+
+      - Compact PE:
+          - Přehled: modely/Compact-PE/Přehled.md
+          - Montáž: modely/Compact-PE/Montáž.md
+          - Kusovníky: modely/Compact-PE/Kusovníky.md
+
+      - Compact CX5x:
+          - Přehled: modely/Compact-CX5x/Přehled.md
+          - Montáž: modely/Compact-CX5x/Montáž.md
+          - Kusovníky: modely/Compact-CX5x/Kusovníky.md
+
+      - Compact CXNINEx:
+          - Přehled: modely/Compact-CXNINEx/Přehled.md
+          - Montáž: modely/Compact-CXNINEx/Montáž.md
+          - Kusovníky: modely/Compact-CXNINEx/Kusovníky.md
+
+      - Compact PX5+ LL:
+          - Přehled: modely/Compact-PX5+-LL/Přehled.md
+          - Montáž: modely/Compact-PX5+-LL/Montáž.md
+          - Kusovníky: modely/Compact-PX5+-LL/Kusovníky.md
+
+      - Compact PX5+ RBN:
+          - Přehled: modely/Compact-PX5+-RBN/Přehled.md
+          - Montáž: modely/Compact-PX5+-RBN/Montáž.md
+          - Kusovníky: modely/Compact-PX5+-RBN/Kusovníky.md
+
+      - Compact PXSIX+:
+          - Přehled: modely/Compact-PXSIX+/Přehled.md
+          - Montáž: modely/Compact-PXSIX+/Montáž.md
+          - Kusovníky: modely/Compact-PXSIX+/Kusovníky.md
+
+  - Přílohy:
+      - Utahovací Momenty: prilohy/tabulka-momentu.md
