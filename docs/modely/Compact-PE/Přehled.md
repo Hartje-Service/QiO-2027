@@ -1,28 +1,27 @@
-# Přehled modelu C 1.0
+# Přehled modelu Compact PE
 
 <!-- HLAVNÍ OBRÁZEK MODELU -->
-<p align="center">
-  <img src="images/C 1.0.png" width="70%">
-</p>
+![QiO PE](images/Compact-PE.png)
 
 <br>
 
 <div style="text-align: justify;">
 
-Model <strong>Conway C 1.0</strong> je základní varianta řady Cairon, postavená na hliníkovém rámu s <strong>integrovanou baterií</strong> a geometrií optimalizovanou pro stabilitu a efektivní přenos síly. Kolo je vybaveno pohonem <strong>Bosch Performance Line</strong>, který poskytuje plynulou podporu a vysokou spolehlivost v každodenním provozu.
-Podvozek tvoří odpružená vidlice se zdvihem 120 mm, 29" kola a široké pláště pro jistotu na nezpevněném povrchu. Model je koncipován jako <strong>univerzální e‑SUV</strong>, vhodný pro kombinaci asfaltu, šotoliny a lehkého terénu, s důrazem na robustnost, nízké servisní nároky a dlouhou životnost komponentů.
+"Compact PE" od QiO znamená chytrou mobilitu se stylem. Výkonný středový motor Bosch se systémem Smart System a baterií 545 Wh spolehlivě zvládne až 25 km/h – tiše, efektivně a s nízkou údržbou díky řemenovému pohonu. Plynule měnitelný náboj Enviolo TR zajišťuje plynulé řazení.
+S 20" koly a pevným hliníkovým rámem je kompaktní kolo obratné a pohodlné. Štědrý průchod usnadňuje nastupování – ideální pro ty, kteří preferují snadnou ovladatelnost. Hydraulické kotoučové brzdy vám poskytují bezpečí za každého počasí.
+S povolenou celkovou hmotností 180 kg a praktickými prvky, jako jsou blatníky, je "Compact PE" připraven pro všechny trasy, které chcete použít. S našimi chytrými doplňky lze také snadno doplňovat a přizpůsobovat osobnost.
 
 </div>
 
 ## <u><strong>Rychlé informace</strong></u>
 
-- Typ rámu: Hliníkový rám (Aluminium / Alloy) 
-- Velikosti: S,M,L,XL -> 27,5", 29"
-- Barvy: Black matt anthracite; Offwhite matt black 
-- Hlavní komponenty: **Vidlice**: SUNTOUR SF27-XCM32-DS-Boost; **Motor**: BOSCH Drive Unit Performance / 50Nm; **Baterie**:PowerTube 600; **Brzdy**:Tektro hydraulické kotoučové; **Řazení**:1x9 (CUES)
-- Zaměření modelu: E‑SUV / univerzální e‑bike 
+- Typ rámu: QIO Compact, Bosch Gen. 4, BES3, hliník, 48 cm 
+- Velikosti: One‑Size (doporučeno 150–190 cm) -> 20"
+- Barvy: Lead metal glossy; Lunar white matt; Night black matt; Dark olive matt; Petrol blue matt; Imola red glossy; Retro blue matt
+- Hlavní komponenty: **Motor**: BOSCH Performance Line / 50Nm; **Baterie**:PowerPack 545; **Brzdy**:Hydraulické kotoučové brzdy Magura MT A2; **Řazení**:ENVIOLO "Twist Pure Display", nekonečně proměnný
+- Zaměření modelu: Kompaktní městské elektrokolo
 
 ## <u><strong>Odkazy na další části</strong></u>
 
-👉 [Specifikace modelu](specifikace.md)  
-👉 [Kusovníky](kusovniky.md)
+👉 [Montáž](Montáž.md)  
+👉 [Kusovníky](Kusovníky.md)

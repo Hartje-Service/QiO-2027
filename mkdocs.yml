@@ -15,7 +15,14 @@ extra_css:
 
 plugins:
   - search
-  - include-markdown
+  - include-markdown:
+      preserve_includer_indent: false
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
 
 nav:
 

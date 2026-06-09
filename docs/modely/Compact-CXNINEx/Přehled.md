@@ -1,28 +1,26 @@
-# Přehled modelu C 1.0
+# Přehled modelu CXNINEx
 
 <!-- HLAVNÍ OBRÁZEK MODELU -->
-<p align="center">
-  <img src="images/C 1.0.png" width="70%">
-</p>
-
-<br>
+![QiO P5-LL](images/Compact-CXNINEx.png)
 
 <div style="text-align: justify;">
 
-Model <strong>Conway C 1.0</strong> je základní varianta řady Cairon, postavená na hliníkovém rámu s <strong>integrovanou baterií</strong> a geometrií optimalizovanou pro stabilitu a efektivní přenos síly. Kolo je vybaveno pohonem <strong>Bosch Performance Line</strong>, který poskytuje plynulou podporu a vysokou spolehlivost v každodenním provozu.
-Podvozek tvoří odpružená vidlice se zdvihem 120 mm, 29" kola a široké pláště pro jistotu na nezpevněném povrchu. Model je koncipován jako <strong>univerzální e‑SUV</strong>, vhodný pro kombinaci asfaltu, šotoliny a lehkého terénu, s důrazem na robustnost, nízké servisní nároky a dlouhou životnost komponentů.
+"Compact CXNINEx" od QiO je nejlepší model v sérii a redefinuje moderní mobilitu elektrokol – s nekompromisním důrazem na výkon, pohodlí a efektivitu. Motocykl je vybaven výkonným středovým motorem Bosch Performance Line CX a systémem Smart a nabízí dynamickou a jemně modulovanou podporu až do 25 km/h, což je ideální pro městské i venkovské trasy.
+Vidlice s rozchodem 80 mm a sedlovka zajišťují znatelné snížení vibrací a nárazů – i na nerovných površích. Podvozek doplňuje vysoce kvalitní náboj 3x3, který poskytuje devět přesně laděných převodů pro maximální efektivitu a komfort jízdy.
+Řemenový pohon Gates CDX znamená nízkou údržbovou odolnost a obzvlášť hladkou jízdu. V kombinaci s výkonnou baterií 800 Wh je výsledkem působivý dojezd, který snadno zvládne i delší trasy.
+Maximální bezpečnost a kontrolu zajišťují hydraulické kotoučové brzdy se čtyřmi pístky, které spolehlivě zpomalují i za mokra a při vysokých rychlostech. Osvětlení zajišťuje vysoce kvalitní dálkový světlomet Busch+Müller "IQ-XS" mED, který nabízí vynikající osvětlení silnice s funkcí 100 luxů a 150 luxů dálkových světel – ideální pro jízdu ve tmě a za špatné viditelnosti.
 
 </div>
 
 ## <u><strong>Rychlé informace</strong></u>
 
-- Typ rámu: Hliníkový rám (Aluminium / Alloy) 
-- Velikosti: S,M,L,XL -> 27,5", 29"
-- Barvy: Black matt anthracite; Offwhite matt black 
-- Hlavní komponenty: **Vidlice**: SUNTOUR SF27-XCM32-DS-Boost; **Motor**: BOSCH Drive Unit Performance / 50Nm; **Baterie**:PowerTube 600; **Brzdy**:Tektro hydraulické kotoučové; **Řazení**:1x9 (CUES)
-- Zaměření modelu: E‑SUV / univerzální e‑bike 
+- Typ rámu: QIO Compact, Bosch Gen. 4, BES3, hliník, 48 cm 
+- Velikosti: One‑Size (doporučeno 150–190 cm) -> 20"
+- Barvy: Lead metal glossy; Lunar white matt; Night black matt; Dark olive matt; Petrol blue matt; Imola red glossy; Retro blue matt
+- Hlavní komponenty: **Vidlice**:SR SUNTOUR "SF22-Mobie34-CGO-Boost", zdvih 80 mm**Motor**: BOSCH Performance Line CX/ 100Nm; **Baterie**:PowerPack 800; **Brzdy**:Hydraulické kotoučové brzdy MAGURA "LOUISE"; **Řazení**:3X3" E.TR. ADJ"
+- Zaměření modelu: Kompaktní městské elektrokolo 
 
 ## <u><strong>Odkazy na další části</strong></u>
 
-👉 [Specifikace modelu](specifikace.md)  
-👉 [Kusovníky](kusovniky.md)
+👉 [Montáž](Montáž.md)  
+👉 [Kusovníky](Kusovníky.md)

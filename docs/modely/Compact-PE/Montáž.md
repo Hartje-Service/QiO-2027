@@ -1,40 +1,67 @@
-# Montáž – Cairon C 1.0
+# Montáž – Compact PE
+
+## Hlavní komponenty
+  {% include "../../modules/Hlavní-komponenty-PE/Hlavní-komponenty-PE.md" %}
 
 ## Vidlice
-!!! include "../../modules/vidlice.md"
+  {% include "../../modules/Vidlice/vidlice.md" %}
 
-## Řídítka
-!!! include "../../modules/riditka.md"
+## Hlavové složení
+  {% include "../../modules/Hlavové-složení/hlavové-složení.md" %}
 
-## Kabeláž
-!!! include "../../modules/kabelaz.md"
+## Misky
+  {% include "../../modules/Misky/misky.md" %}
 
-## Motor
-!!! include "../../modules/motor.md"
-
-## Baterie
-!!! include "../../modules/baterie.md"
+## Speed lifter
+  {% include "../../modules/Speed-lifter-pevná/Speed-lifter-pevná.md" %}
 
 ## Přední blatník
-!!! include "../../modules/predni-blatnik.md"
+  {% include "../../modules/Přední-blatník/Přední-blatník.md" %}
 
-## Zadní blatník
-!!! include "../../modules/zadni-blatnik.md"
+## Kabeláž
+  {% include "../../modules/Kabeláž-všeobecná/Kabeláž-všeobecná.md" %}
 
-## Nosič
-!!! include "../../modules/nosic.md"
+## Schéma vedení kabelů 
+  {% include "../../modules/Kabeláž-PE/Kabeláž-PE.md" %}
 
-## Přední světlo
-!!! include "../../modules/predni-svetlo.md"
+## Zamezení pohybu kabelů v rámu
+  {% include "../../modules/Štětka/Štětka.md" %}
 
-## Zadní světlo
-!!! include "../../modules/zadni-svetlo.md"
+## Ovladač
+  {% include "../../modules/Ovladač-PE/Ovladač-PE.md" %}
+
+## Motor
+{% include "../../modules/Motor/Motor.md" %}
+
+## Kryt motoru
+{% include "../../modules/Kryt-motoru/Kryt-motoru.md" %}
+
+## Kryt řemenu
+{% include "../../modules/Kryt-řemenu/Kryt-řemenu.md" %}
 
 ## Převodník
-!!! include "../../modules/prevodnik.md"
+{% include "../../modules/Převodník/Převodník.md" %}
 
-## Kryt řetězu
-!!! include "../../modules/kryt-retezu.md"
+## Stojan
+{% include "../../modules/Stojánek/Stojánek.md" %}
 
-## Kryt klínového řemene
-!!! include "../../modules/kryt-remene.md"
+## Patka rámu
+{% include "../../modules/Zadní-vozík/Zadní-vozík.md" %}
+
+## Vedení kabelů u patky rámu
+{% include "../../modules/Zadek-kabel/Zadek-kabel.md" %}
+
+## Zadní blatník
+{% include "../../modules/Zadní-blatník/Zadní-blatník.md" %}
+
+## Nosič
+{% include "../../modules/Nosič/Nosič.md" %}
+
+## Zadní kolo
+{% include "../../modules/Zadní-kolo/Zadní-kolo.md" %}
+
+## Sedlo
+{% include "../../modules/Sedlo/Sedlo.md" %}
+
+## Balení
+{% include "../../modules/Balení/Balení.md" %}
