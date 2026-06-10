@@ -1,5 +1,7 @@
 Kompletní seznam použitých dílů pro model:
 
+BASE: {{ base_url }}
+
 👉 [Stáhnout kusovník – 0.265.217/1](0.265.2171.pdf)
 
 👉 [Stáhnout kusovník – 0.265.217/2](0.265.2172.pdf)
