@@ -29,3 +29,25 @@
     pointer-events: none;  /* ať neblokuje klikání */
 }
 
+/* Globální styl obrázků – vystředění */
+.md-content img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Pokud chceš mít dva obrázky vedle sebe,
+   stačí je dát do <div class="row"> */
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+/* Obrázky uvnitř .row se NEcentrují blokově */
+.row img {
+    display: inline-block;
+    margin: 0;
+}
+

@@ -2,9 +2,6 @@ site_name: QiO 2027 – Výrobní manuál
 site_description: Výrobní manuál pro modely QiO 2027
 site_author: Hartje Production
 
-extra:
-  base_url: "https://hartje-service.github.io/QiO-2027"
-
 theme:
   name: material
   language: cs
@@ -20,10 +17,11 @@ plugins:
   - search
   - include-markdown:
       preserve_includer_indent: false
-      rewrite_relative_urls: false
-      heading_offset: 0
-      jinja2: true
-      
+  - macros
+
+extra:
+  base_url: "https://hartje-service.github.io/QiO-2027"
+
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -31,7 +29,6 @@ markdown_extensions:
   - admonition
 
 nav:
-
   - Obecné:
       - Specifikace: obecne/specifikace.md
       - Bezpečnost: obecne/bezpecnost.md
