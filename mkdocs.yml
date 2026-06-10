@@ -20,7 +20,10 @@ plugins:
   - search
   - include-markdown:
       preserve_includer_indent: false
-
+      rewrite_relative_urls: false
+      heading_offset: 0
+      jinja2: true
+      
 markdown_extensions:
   - attr_list
   - md_in_html
