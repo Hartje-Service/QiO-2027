@@ -29,25 +29,26 @@
     pointer-events: none;  /* ať neblokuje klikání */
 }
 
-/* Globální styl obrázků – vystředění */
+/* Globální vystředění všech obrázků + mezera pod nimi */
 .md-content img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 25px;   /* příjemná mezera mezi obrázky */
 }
 
-/* Pokud chceš mít dva obrázky vedle sebe,
-   stačí je dát do <div class="row"> */
+/* Flex řádek pro více obrázků vedle sebe */
 .row {
     display: flex;
     justify-content: center;
-    gap: 20px;
-    margin: 20px 0;
+    gap: 20px;             /* mezera mezi obrázky vedle sebe */
+    margin: 20px 0;        /* mezera nad a pod řádkem */
 }
 
-/* Obrázky uvnitř .row se NEcentrují blokově */
+/* Obrázky uvnitř .row se nechovají jako blokové */
 .row img {
     display: inline-block;
-    margin: 0;
+    margin: 0;             /* odstranění spodní mezery */
 }
+
 
