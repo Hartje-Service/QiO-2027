@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="/modules/Misky/images/misky.png" width="70%">
-</p>
+<img src="{{ base_url }}/modules/Misky/images/misky.png" width="70%">
+
 
 <div style="text-align: justify;">
 

@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="/modules/Vidlice/images/vidlice.png" width="70%">
-</p>
+<img src="{{ base_url }}/modules/Vidlice/images/vidlice.png" width="70%">
+
 
 <div style="text-align: justify;">
 
@@ -9,7 +8,6 @@ Délka vidlice je na všech modelech stejná 285mm. V případě, že je vidlice
 
 </div>
 
-<p align="center">
-  <img src="/modules/Vidlice/images/osazení-vidlice.png" width="70%">
-</p>
+<img src="{{ base_url }}/modules/Vidlice/images/osazení-vidlice.png" width="70%">
+
 

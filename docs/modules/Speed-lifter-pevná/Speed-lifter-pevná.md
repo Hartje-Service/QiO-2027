@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="/modules/Speed-lifter-pevná/images/speed-lifter-pevná.png" width="70%">
-</p>
+<img src="{{ base_url }}/modules/Speed-lifter-pevná/images/speed-lifter-pevná.png" width="70%">
+
 
 Pokud bude dodržená délka vidlice 285mm, tak se použije pouze 1 vymezovačka (spacer).
 

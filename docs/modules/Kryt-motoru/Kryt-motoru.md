@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/modules/Kryt-motoru/images/Kryt-motoru.png" width="70%">
-</p>
+<img src="{{ base_url }}/modules/Kryt-motoru/images/Kryt-motoru.png" width="70%">
 
-<p align="center">
-  <img src="/modules/Kryt-motoru/images/Kryt-motoru2.png" width="70%">
-</p>
+<img src="{{ base_url }}/modules/Kryt-motoru/images/Kryt-motoru2.png" width="70%">
