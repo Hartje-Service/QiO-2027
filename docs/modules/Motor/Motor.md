@@ -10,8 +10,8 @@
 ## Vedení kabelu předního světla
 
 <div class="row">
-  <img src="/modules/Motor/images/Motor-kabely-př.světlo.png" width="45%">
-  <img src="/modules/Motor/images/Motor-kabely-př.světlo-ne.png" width="45%">
+  <img src="{{ base_url }}/modules/Motor/images/Motor-kabely-př.světlo.png" width="45%">
+  <img src="{{ base_url }}/modules/Motor/images/Motor-kabely-př.světlo-ne.png" width="45%">
 </div>
 
 Při maximálním vytažení speed lifteru a zvednutí představce dochází k napnutí kabelu předního světlo, proto tento kabel jako jediný vedeme pod motorem.
